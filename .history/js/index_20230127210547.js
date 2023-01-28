@@ -14,31 +14,20 @@ window.onload = function () {
 const main = function () {
   //!  10123.1609  variables
   //!  10123.1609 functions
-  //!  10123.1609 classes
-
-  class Human {
-    constructor() {
-      this.gender = "male";
-    }
-    printGender() {
-      c(this.gender);
-    }
-  }
-
-  class Person extends Human {
-    constructor() {
-      super();
-      this.name = "Max";
-    }
-    printMyName() {
-      c(this.name);
-    }
-  }
 
   //!  10123.161 0  main body
 
-  const person = new Person();
-  person.printMyName();
-  person.printGender();
+  class Person {
+    constructor() {
+      this.name = "Max";
+    }
+    printMyName() {
+
+console.log();
+
+    } 
+  }
+  c(this.name);
 };
+
 //!  123122.1839  END
