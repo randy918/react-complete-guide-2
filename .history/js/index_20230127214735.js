@@ -22,8 +22,11 @@ const main = function () {
   }
 
   class Person extends Human {
-    name = "Max";
-    printMyName = () => c(this.name);
+      name = "Max";
+    }
+    printMyName =  {
+      c(this.name);
+    }
   }
 
   //!  10123.161 0  main body

@@ -17,13 +17,20 @@ const main = function () {
   //!  10123.1609 classes
 
   class Human {
-    gender = "male";
-    printGender = () => c(this.gender);
+      gender = "male";
+    printGender = () =>  {
+      c(this.gender);
+    }
   }
 
   class Person extends Human {
-    name = "Max";
-    printMyName = () => c(this.name);
+    constructor() {
+      super();
+      this.name = "Max";
+    }
+    printMyName() {
+      c(this.name);
+    }
   }
 
   //!  10123.161 0  main body
