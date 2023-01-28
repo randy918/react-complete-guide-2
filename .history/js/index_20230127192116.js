@@ -7,7 +7,7 @@ const init = function () {
 };
 
 window.onload = function () {
-  init();
+        init();
 };
 
 //!  123122.1839        MAIN
