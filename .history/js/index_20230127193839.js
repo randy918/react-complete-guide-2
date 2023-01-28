@@ -17,7 +17,7 @@ const main = function () {
   //!  10123.1609 functions
 
 const myFunc = () =>  {
-return r(7);
+return r7;
 
 }
 

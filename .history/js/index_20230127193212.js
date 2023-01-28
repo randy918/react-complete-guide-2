@@ -17,13 +17,10 @@ const main = function () {
   //!  10123.1609 functions
 
 const myFunc = () =>  {
-return r(7);
 
-}
+    
+}}
 
   //!  10123.161 0  main body
-
-c(myFunc());
-
   //!  123122.1839  END
 };
