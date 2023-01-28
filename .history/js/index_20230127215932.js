@@ -13,14 +13,21 @@ window.onload = function () {
 //!  123122.1839        MAIN
 const main = function () {
   //!  10123.1609  variables
-
-  const numbers = [7, 8, 9];
-  const newNumbers = [...numbers,1,2,3];
-  c(newNumbers);
-
   //!  10123.1609 functions
   //!  10123.1609 classes
 
+  class Human {
+    gender = "male";
+    printGender = () => c(this.gender);
+  }
+
+  class Person extends Human {
+    name = "Max";
+    printMyName = () => c(this.name);
+  }
+
   //!  10123.161 0  main body
+
+
 };
 //!  123122.1839  END

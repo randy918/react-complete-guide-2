@@ -15,8 +15,7 @@ const main = function () {
   //!  10123.1609  variables
 
   const numbers = [7, 8, 9];
-  const newNumbers = [...numbers,1,2,3];
-  c(newNumbers);
+  const numbers = [7, 8, 9];
 
   //!  10123.1609 functions
   //!  10123.1609 classes

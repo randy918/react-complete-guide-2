@@ -14,13 +14,15 @@ window.onload = function () {
 const main = function () {
   //!  10123.1609  variables
 
-  const numbers = [7, 8, 9];
-  const newNumbers = [...numbers,1,2,3];
-  c(newNumbers);
+const numbers = []
 
   //!  10123.1609 functions
   //!  10123.1609 classes
 
+
+
   //!  10123.161 0  main body
+
+
 };
 //!  123122.1839  END
