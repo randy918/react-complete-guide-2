@@ -13,10 +13,10 @@ window.onload = function () {
 //!  123122.1839        MAIN
 const main = function () {
   //!  10123.1609  variables
-const myNumbers = [6,7,89];
-const doubleNumbers = myNumbers.map((num) => num * 2);
+myNumbers = [6,7,89];
+doubleNumbers = [...m]
 
-console.log(doubleNumbers);
+console.log(aa);
 
   //!  10123.1609 functions
   //!  10123.1609 classes

@@ -13,8 +13,8 @@ window.onload = function () {
 //!  123122.1839        MAIN
 const main = function () {
   //!  10123.1609  variables
-const myNumbers = [6,7,89];
-const doubleNumbers = myNumbers.map((num) => num * 2);
+const = myNumbers = [6,7,89];
+doubleNumbers = numbers;
 
 console.log(doubleNumbers);
 
