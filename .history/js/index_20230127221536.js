@@ -17,8 +17,6 @@ myNumbers = [6,7,89];
 
 [aa,bb] = myNumbers;
 
-console.log(aa);
-
   //!  10123.1609 functions
   //!  10123.1609 classes
 

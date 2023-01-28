@@ -13,11 +13,7 @@ window.onload = function () {
 //!  123122.1839        MAIN
 const main = function () {
   //!  10123.1609  variables
-myNumbers = [6,7,89];
-
-[aa,bb] = myNumbers;
-
-console.log(aa);
+myNumbers
 
   //!  10123.1609 functions
   //!  10123.1609 classes
